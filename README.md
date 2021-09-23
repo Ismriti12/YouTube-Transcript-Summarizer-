@@ -1,6 +1,6 @@
 # YouTube-Transcript-Summarizer-
-Please Note: This project is in process of creating a chrome extension.
-Basic Idea: A Chrome extension that will make a request to a backend REST API where it will perform NLP and respond with a summarized version of a YouTube transcript.
+Please Note: Chrome extension in process.
+
 
 Main Project: HuggingFace's transformers library is used in Python to perform **abstractive text summarization** on the transcript of the YouTube API.
 
